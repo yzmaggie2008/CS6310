@@ -1,5 +1,0 @@
-# Ignore macos system files
-.DS_Store
-.idea
-**/.idea
-**/.mvn
